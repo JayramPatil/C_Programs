@@ -1,0 +1,24 @@
+
+One Time
+git config --global user.name "Jayram"
+git config --global user.email "Jayram@gmail.com"
+
+========================================================
+First Time Upload
+git init
+
+git remote add origin http////////////
+
+git add fileName
+
+git commit -m "Your Text"
+
+git push origin master
+
+========================================================
+After
+git add fileName
+
+git commit -m "Your Text"
+
+git push origin master
